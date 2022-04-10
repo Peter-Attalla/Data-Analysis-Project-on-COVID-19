@@ -10,9 +10,9 @@ Null hypothesis: There are no statistically significant differences after follow
 H1 = P < 0.05 
 Alternative hypothesis: There are statistically significant differences after following the precautionary measures
 # Variables 
-1-New_deaths
-The number of dead people infected from COVID-19 every day.
-2- Virus reproduction rate (VRR)
-It is the rate of reproduction of the virus under the precautionary measures.
-3- Stringency Index 
+1-New_deaths___
+The number of dead people infected from COVID-19 every day___
+2- Virus reproduction rate (VRR)___
+It is the rate of reproduction of the virus under the precautionary measures___
+3- Stringency Index___
 What is the rate of following precautionary measures in the conditions of the spread of the virus?
